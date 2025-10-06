@@ -1,0 +1,6 @@
+appwrite
+requests
+# Gerçek scraping için ihtiyacınız olacaksa:
+# beautifulsoup4
+# lxml
+# openai (Eğer gerçek AI API kullanacaksanız)
