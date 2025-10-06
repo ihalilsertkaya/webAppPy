@@ -25,6 +25,3 @@ const handleApprove = async (documentId, startDate) => {
         console.error('API çağrısı hatası:', error);
     }
 };
-
-// ... JSX içinde kullanım
-// <button onClick={() => handleApprove('belge_id_123', '2025-10-30')}>Onayla</button>
